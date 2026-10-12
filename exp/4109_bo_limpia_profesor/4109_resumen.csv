@@ -1,0 +1,7 @@
+candidato,tipo,meseta_A_M,meseta_B_M,desvio_B_M,semillas_mejor_que_z601,arboles,learning_rate,num_leaves,min_data_in_leaf,feature_fraction,bagging_fraction,lambda_l1,lambda_l2
+prueba_36,busqueda,453.0,434.3,7.6,20/20,258,0.0235,98,2628,0.0594,0.8433,,
+prueba_34,busqueda,454.7,426.5,13.8,20/20,331,0.02,242,437,0.0727,0.9115,,
+prueba_22,busqueda,453.5,423.6,14.4,20/20,290,0.0354,171,2394,0.0578,0.9309,,
+prueba_23,busqueda,459.0,417.0,15.1,20/20,280,0.031,112,1317,0.0676,0.9101,,
+prueba_50,busqueda,452.4,409.2,11.0,20/20,103,0.041,71,467,0.1018,0.9409,,
+z601,referencia,,357.0,8.1,-,250,0.0199,16,1632,0.2772,0.6341,0.001,0.001

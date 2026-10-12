@@ -1,0 +1,5 @@
+modelo,dataset,variables,hiper,arboles,meseta_M,maximo_M,envios_optimos,envios_agosto_p25_p50_p75,dif_vs_receta_3002_M,IC90_M,pct_remuestreos_gana
+muerte_conteo_3003,ds3003_rank_extra.parquet,766,4105 p23_4104,580,438.3,454.3,13000,"12,842 / 13,243 / 13,544",4.6,[-4.0 ; 13.2],81%
+rank_luego_lag_3005,ds3005_rank_luego_lag.parquet,766,4105 p23_4104,580,435.3,451.6,13500,"11,738 / 13,143 / 13,444",1.4,[-12.5 ; 15.7],56%
+muerte_flags_3004,ds3004_flags.parquet,782,4105 p23_4104,580,434.9,448.8,14000,"13,444 / 13,744 / 13,945",1.1,[-7.8 ; 10.9],56%
+receta_3002,ds3002_rank_total.parquet,760,4105 p23_4104,580,433.9,446.6,12000,"10,935 / 11,939 / 12,942",,,

@@ -1,0 +1,3 @@
+modelo,dataset,variables,hiper,arboles,meseta_M,maximo_M,envios_optimos,envios_agosto_p25_p50_p75,dif_vs_rank_bo4105_M,IC90_M,pct_remuestreos_gana
+rank_extra_bo4105,ds3003_rank_extra.parquet,461,4105 p23_4104,580,438.7,453.8,13500,"12,942 / 13,243 / 13,544",5.4,[-3.6 ; 14.9],84%
+rank_bo4105,ds3002_rank_total.parquet,456,4105 p23_4104,580,433.3,445.5,13000,"11,236 / 12,541 / 13,042",,,

@@ -1,0 +1,42 @@
+# --- Secretos: nunca al repo ---
+*token*
+*secreto*
+*secretos*
+*.env
+credenciales*
+
+# --- Datos (pesados, se regeneran con 01 y 03*) ---
+data/
+*.parquet
+
+# --- Logs y marcas de los .bat ---
+logs/
+APURAR.txt
+
+# --- Salidas pesadas de los experimentos ---
+exp/**/cache/
+exp/**/kaggle/
+exp/**/zulip/
+exp/**/*_prob_por_semilla.parquet
+exp/**/*_prob_por_modelo.parquet
+exp/**/*_probabilidades.csv
+!exp/5015_prod_profesor_mar_jun/5015_probabilidades.csv
+
+# --- Python y sistema ---
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+Thumbs.db
+desktop.ini
+
+# --- Archivos de trabajo que no van al repo ---
+*.zip
+revision_cowork*/
+informe_tecnico_5015.md
+limpiar_descripcion_5023.py
+
+# --- Locales ---
+.vscode/
+gitignore.txt
+recomendacion.md

@@ -1,0 +1,4 @@
+conjunto,n_variables,corte_optimo,ganancia_media_M,desvio_M,min_M,max_M,semillas_mejor_que_todas
+todas,456,15500,408.2,8.0,398.8,418.6,-
+p95,123,15000,403.7,5.4,394.9,408.1,2/5
+max,120,15500,402.3,5.0,395.4,408.6,1/5

@@ -1,0 +1,4 @@
+modelo,dataset,variables,hiper,arboles,meseta_M,maximo_M,envios_optimos,envios_agosto_p25_p50_p75,dif_vs_actual_crudo_p95_M,IC90_M,pct_remuestreos_gana
+actual_crudo_p95,ds3001_crudo.parquet,123,4102 prueba_117,181,434.6,445.0,13500,"12,741 / 13,343 / 13,644",,,
+rank_bo4105,ds3002_rank_total.parquet,456,4105 p23_4104,580,433.3,445.5,13000,"11,236 / 12,541 / 13,042",-1.0,[-18.9 ; 15.7],48%
+rank_bo4104,ds3002_rank_total.parquet,456,4104 prueba_35,238,429.2,443.3,13000,"10,835 / 12,641 / 13,143",-5.6,[-20.3 ; 9.6],26%

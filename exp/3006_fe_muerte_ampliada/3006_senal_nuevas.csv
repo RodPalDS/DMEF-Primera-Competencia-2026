@@ -1,0 +1,11 @@
+variable,tasa_decil_bajo_pct,tasa_decil_alto_pct,cociente_alto_bajo
+n_apagados,0.045,3.962,87.5
+n_apagados_amplio,0.043,3.781,87.4
+score_apagado,0.024,3.378,138.1
+n_apagados_tarjetas,0.181,3.276,18.1
+n_apagados_canales,0.155,2.993,19.3
+n_apagados_transaccional,0.108,3.43,31.8
+n_apagados_ahorro,0.164,3.968,24.2
+n_apagados_credito,0.578,3.177,5.5
+n_apagados_sueldo,0.622,0.622,1.0
+n_apagados_seguros,0.389,0.72,1.9

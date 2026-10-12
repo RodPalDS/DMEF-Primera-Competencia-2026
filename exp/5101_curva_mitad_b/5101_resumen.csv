@@ -1,0 +1,6 @@
+modelo,meseta_M,maximo_M,envios_optimos,proporcion_clientes
+bo4102,433.7,443.3,13000,0.0792
+bo4103,433.0,441.1,13000,0.0792
+combinacion_todos,422.8,440.0,16000,0.0975
+combinacion_z601_bo4102,417.3,423.5,15000,0.0914
+z601,387.4,395.4,14500,0.0884

@@ -1,0 +1,5 @@
+dataset,corte_optimo,ganancia_media_M,desvio_M,min_M,max_M,auc_media,semillas_mejor_que_base
+base,13500,392.4,10.2,382.2,404.2,0.8974,-
+crudo,14500,390.2,1.8,387.8,392.2,0.8979,2/5
+mediana,15000,379.9,5.7,372.9,388.3,0.897,1/5
+rank,14000,374.9,6.5,366.3,380.6,0.8963,0/5

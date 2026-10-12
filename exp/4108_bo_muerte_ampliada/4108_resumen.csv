@@ -1,0 +1,8 @@
+candidato,tipo,meseta_A_M,meseta_B_M,desvio_B_M,semillas_mejor_que_p23_4104,arboles,learning_rate,num_leaves,min_data_in_leaf,feature_fraction,bagging_fraction,lambda_l1,lambda_l2
+p23_4104,referencia,,426.2,8.3,-,580,0.0678,41,20248,0.1798,0.3124,0.001,0.001
+prueba_21,busqueda,445.5,415.3,15.9,5/20,88,0.0508,93,658,0.0735,0.4388,,
+prueba_44,busqueda,449.1,414.0,11.1,2/20,86,0.0491,170,325,0.0811,0.494,,
+prueba_31,busqueda,452.1,410.8,16.4,4/20,74,0.0296,56,262,0.1194,0.3535,,
+prueba_19,busqueda,440.5,407.5,19.0,4/20,80,0.0321,83,383,0.1263,0.4188,,
+prueba_41,busqueda,452.3,403.0,15.9,2/20,172,0.0399,79,502,0.0952,0.5165,,
+z601,referencia,,352.8,8.0,0/20,250,0.0199,16,1632,0.2772,0.6341,0.001,0.001
