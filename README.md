@@ -9,7 +9,7 @@ Objetivo: elegir a qué clientes de la foto `202108` enviarles el estímulo de r
 
 | | |
 |---|---|
-| Archivo | `entrega_final/Z6011_5015_e12500_final.csv` |
+| Archivo | `entrega_final/Z6011_5015_e12500_final2.csv` |
 | Contenido | 12.500 `numero_de_cliente` de 202108, una columna, sin encabezado |
 | Modelo | experimento **5015** (semillerío de 50 LightGBM) |
 | Submit final | `submit 5015e12500final2` · ID `1626-1791760490758459` · 11/10/2026 20:14 |
